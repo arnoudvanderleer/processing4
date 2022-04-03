@@ -19,5 +19,5 @@ Classes for dealing IO stream of parser/compiler. Runner.java contains function 
 
 Implementation for sketch running in tweak mode.
 
-## [javaMode.java] (./javaMode.java)
+## [JavaMode.java] (./JavaMode.java)
 In this module, it will launch a sketch depending on different mode (present, run and tweak), and then call functions in Runner.java to build and compile sketch.
