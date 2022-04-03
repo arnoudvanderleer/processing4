@@ -12,7 +12,7 @@ platform handler for multi-platforms, Linux, Max and windows.
 
 classes handle process input and output stream.
 
-## [contrib] (./contrib)
+## [contrib](./contrib)
 implementation for third-party contribution interface and corresponding references.
 
 ## [ui](./ui)
