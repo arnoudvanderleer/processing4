@@ -13,12 +13,12 @@ platform handler for multi-platforms, Linux, Max and windows.
 classes handle process input and output stream.
 
 ## [contrib](./contrib)
-implementation for third-party contribution interface and corresponding references.
+implementation for different types of third-party contribution interface and corresponding references.
 
 ## [ui](./ui)
 implementation for the main Graphical user interface.
 
 ## Base.java
-entrance of the main processing application, which is one of the hotspot component in processing project, it hanles generate interactions between user and system.
+Entrance of the main processing application, which is one of the hotspot component in processing project, it hanles generate interactions between user and system.
 
 
