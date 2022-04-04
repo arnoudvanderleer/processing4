@@ -8,10 +8,10 @@ This package contains definitions for Font, images in different formats, 2D, 3D 
 And the most important hotspot component [PApplet](./core/PApplet.java) is in the package, which handles all the interaction between sketch and other functions in core packages.
 
 ## [data](./data)
-storing data object, and lookup tables for different types of data, as well as some supported functions.
+Storing data object, and lookup tables for different types of data, as well as some supported functions.
 
 ## [event](./event)
 Three different types of event, key, mouse and touch implement Event interface.
 
 ## [opengl](./opengl)
-implementation of opengl, and shaders.
+Implementation of opengl, and shaders.
