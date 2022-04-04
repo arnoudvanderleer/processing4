@@ -2,21 +2,21 @@
 
 ## [syntax](./syntax)
 
-the main implementation of PDE ( processing developer envrionment ), including the syntax error highlighting, and token handler classes.
+The main implementation of PDE ( processing developer envrionment ), including the syntax error highlighting, and token handler classes.
 
 ## [platform](./platform)
 
-platform handler for multi-platforms, Linux, Max and windows. 
+Platform handler for multi-platforms, Linux, Max and windows. 
 
 ## [exec](./exec)
 
-classes handle process input and output stream.
+Classes handle process input and output stream.
 
 ## [contrib](./contrib)
-implementation for different types of third-party contribution interface and corresponding references.
+Implementation for different types of third-party contribution interface and corresponding references.
 
 ## [ui](./ui)
-implementation for the main Graphical user interface.
+Implementation for the main Graphical user interface.
 
 ## [Base.java](./Base.java)
 Entrance of the main processing application, which is one of the hotspot component in processing project, it hanles generate interactions between user and system.
